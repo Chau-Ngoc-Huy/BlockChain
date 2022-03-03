@@ -1,6 +1,6 @@
 ## BlockChain
 
-This project is a simple crypto currency base on BlockChain by Javascript. This project has all the function about basis BlockChain.
+This project is a simple crypto currency base on BlockChain by Javascript. This project has all the function about basis BlockChain hehe.
 
 ## Initialization
 
